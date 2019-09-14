@@ -30,3 +30,5 @@ Para este desafio você precisará de:
 
 - Git
 - GitHub
+- Este texto é para uso do desafio da codenation
+
